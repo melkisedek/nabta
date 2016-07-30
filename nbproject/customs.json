@@ -1,0 +1,14 @@
+{
+    "elements": {},
+    "attributes": {
+        "placeholder": {
+            "context": "option"
+        },
+        "type": {
+            "context": "textarea"
+        },
+        "value": {
+            "context": "textarea"
+        }
+    }
+}
